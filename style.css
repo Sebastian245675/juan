@@ -1,0 +1,41 @@
+body {
+
+
+
+
+
+} 
+.imagen {
+background-image: url("clan.jpg");
+
+}
+
+.FACEBOOCK {
+    background-color: blue;
+
+}
+.diamantes {
+
+background-image: url("diamantes.jpg");
+
+}
+
+
+
+.inicio
+{background-color:black;
+    max-width: 30px 30px 30px;
+
+
+
+}
+.centro
+{
+background-color: blue;
+position: fixed;
+width: 100%;
+z-index: 100%;
+
+
+
+}
